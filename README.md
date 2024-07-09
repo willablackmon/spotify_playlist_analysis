@@ -1,10 +1,5 @@
 # Spotify 2023
 
-# Presentation
-
-https://docs.google.com/presentation/d/1QTn1QKiOGeViOmNLD9WQJBfPmGdNsJrZb--lwdYSSKo/edit?usp=sharing
-
-
 # Project Description:
 
 # Questions to Investigate:
