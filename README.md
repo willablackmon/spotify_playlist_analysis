@@ -43,23 +43,19 @@ While investigating the most popular tracks, as measured by "Most Streamed" and 
 
 **Top Artist Streams (more current, modern Artists)**
 
-
 <figure>
     <figcaption><em></em></figcaption>
     <img src="images/1730152554606.png" style="width: 100%; max-width: 700px;" 
          alt="fig 1">
 </figure>
 
-
 **Top Artists in Playlists (more inclusion of artists from the 1970s, 1980s, and 1990s)**
-
 
 <figure>
     <figcaption><em></em></figcaption>
     <img src="images/1730152583738.png" style="width: 100%; max-width: 700px;" 
          alt="fig 2">
 </figure>
-
 
 ## Deep Dive into Top Artist Streams vs. Top Artists in Playlists
 
@@ -71,16 +67,13 @@ While investigating the most popular tracks, as measured by "Most Streamed" and 
 
 **(fig 3)**
 
-
 <figure>
     <figcaption><em></em></figcaption>
-    <img src="images/1730152735472.png" style="width: 100%; max-width: 700px;" 
+    <img src="images/1730152735472.png" style="width: 100%; max-width: 500px;" 
          alt="fig 3">
 </figure>
 
-
 **(fig 4)**
-
 
 <figure>
     <figcaption><em></em></figcaption>
@@ -88,16 +81,13 @@ While investigating the most popular tracks, as measured by "Most Streamed" and 
          alt="fig 4">
 </figure>
 
-
 **(fig 5)**
-
 
 <figure>
     <figcaption><em></em></figcaption>
-    <img src="images/1730160281976.png" style="width: 100%; max-width: 700px;" 
+    <img src="images/1730160281976.png" style="width: 100%; max-width: 600px;" 
          alt="fig 5">
 </figure>
-
 
 #### **Top Artists in Playlists**
 
@@ -110,16 +100,13 @@ While investigating the most popular tracks, as measured by "Most Streamed" and 
 
 **(fig 6)**
 
-
 <figure>
     <figcaption><em></em></figcaption>
-    <img src="images/1730152798031.png" style="width: 100%; max-width: 700px;" 
+    <img src="images/1730152798031.png" style="width: 100%; max-width: 500px;" 
          alt="fig 6">
 </figure>
 
-
 **(fig 7)**
-
 
 <figure>
     <figcaption><em></em></figcaption>
@@ -127,26 +114,21 @@ While investigating the most popular tracks, as measured by "Most Streamed" and 
          alt="fig 7">
 </figure>
 
-
 **(fig 8)**
-
 
 <figure>
     <figcaption><em></em></figcaption>
-    <img src="1730152931984.png" style="width: 100%; max-width: 700px;" 
+    <img src="images/1730152931984.png" style="width: 100%; max-width: 600px;" 
          alt="1fig 8">
 </figure>
 
-
 **(fig 9)**
-
 
 <figure>
     <figcaption><em></em></figcaption>
-    <img src="images/1730152981982.png" style="width: 100%; max-width: 700px;" 
+    <img src="images/1730152981982.png" style="width: 100%; max-width: 600px;" 
          alt="fig 9">
 </figure>
-
 
 ---
 
