@@ -1,6 +1,6 @@
 # Spotify Streaming Data Analysis 2023
 
-This project analyzes the most streamed Spotify songs of 2023 to understand trends in streaming, artist popularity, and song characteristics across platforms like Spotify, Apple Music, Deezer, and Shazam.
+Analyze the most streamed Spotify songs of 2023 to understand trends in streaming, artist popularity, and song characteristics across platforms including Spotify, Apple Music, Deezer, and Shazam.
 
 **[Data](#data)** | **[Top Artist Streams vs. Top Artists in Playlists](#top-artist-streams-vs-top-artists-in-playlists)** | **[Deep Dive into Top Artist Streams vs. Top Artists in Playlists](#deep-dive-into-top-artist-streams-vs-top-artists-in-playlists)** | **[Technologies and Tools](#technologies-and-tools)** | **[Follow-On Studies](#follow-on-studies)**
 
@@ -8,7 +8,7 @@ This project analyzes the most streamed Spotify songs of 2023 to understand tren
 
 ## Abstract
 
-This project focuses on analyzing the top-streamed songs on Spotify in 2023. The analysis includes exploring data patterns and visualizing trends such as streams, artist presence in playlists, and chart rankings.
+Analyze the top-streamed songs on Spotify in 2023.  Explore data patterns and visualizing trends such as streams, artist presence in playlists, and chart rankings.
 
 ---
 
@@ -39,7 +39,9 @@ This project focuses on analyzing the top-streamed songs on Spotify in 2023. The
 
 **Investigation of Most Popular Tracks, as Measured by 'Most Streamed' and  'Most Added/Included in Playlists'** revealed unexpected results.
 
-While investigating the most popular tracks, as measured by "Most Streamed" and "Most Added/Included in Playlists", the assumption was that "Most Streams" and "Most Added/Included in Playlists" would include similar lists of Artists/Tracks.  However, the data showed a different set of Artists for each category
+While investigating the most popular tracks, as measured by "Most Streamed" and "Most Added/Included in Playlists", the assumption was that "Most Streams" and "Most Added/Included in Playlists" would include similar lists of Artists/Tracks.  
+
+However, the data showed a different set of Artists for each of these categories:
 
 **Top Artist Streams (more current, modern Artists)**
 
