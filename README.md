@@ -1,8 +1,8 @@
 # Spotify Streaming Data Analysis 2023
 
-Analyze the most streamed Spotify songs of 2023 to understand trends in streaming, artist popularity, and song characteristics across platforms including Spotify, Apple Music, Deezer, and Shazam.
+Exploration of data patterns and visualization of key trends for the most streamed Spotify songs of 2023, with focus on artist popularity as measured by **total streams** and **artist presence in playlists**.
 
-**[Data](#data)** | **[Top Artist Streams vs. Top Artists in Playlists](#top-artist-streams-vs-top-artists-in-playlists)** | **[Deep Dive into Top Artist Streams vs. Top Artists in Playlists](#deep-dive-into-top-artist-streams-vs-top-artists-in-playlists)** | **[Technologies and Tools](#technologies-and-tools)** | **[Follow-On Studies](#follow-on-studies)**
+**[Data](#data)** | **[Top Artist Streams vs. Top Artists in Playlists](#top-artist-streams-vs-top-artists-in-playlists)** | **[Deep Dive into Top Artist Streams vs. Top Artists in Playlists](#deep-dive-into-top-artist-streams-vs-top-artists-in-playlists)** | **[Follow-On Studies](#follow-on-studies)**
 
 ---
 
@@ -11,6 +11,11 @@ Analyze the most streamed Spotify songs of 2023 to understand trends in streamin
 Analyze the top-streamed songs on Spotify in 2023.  Explore data patterns and visualizing trends such as streams, artist presence in playlists, and chart rankings.
 
 ---
+
+## Technologies and Tools
+
+* **Tools and Libraries** : Python, pandas, and Jupyter Notebook were used for data cleaning, analysis, and visualization.
+* **Visualizations** : bar and scatter plots using **matplotlib** and **seaborn** to explore data distribution and relationships.
 
 ## Data
 
@@ -39,7 +44,7 @@ Analyze the top-streamed songs on Spotify in 2023.  Explore data patterns and vi
 
 **Investigation of Most Popular Tracks, as Measured by 'Most Streamed' and  'Most Added/Included in Playlists'** revealed unexpected results.
 
-While investigating the most popular tracks, as measured by "Most Streamed" and "Most Added/Included in Playlists", the assumption was that "Most Streams" and "Most Added/Included in Playlists" would include similar lists of Artists/Tracks.  
+While investigating the most popular tracks, as measured by "Most Streamed" and "Most Added/Included in Playlists", the assumption was that "Most Streams" and "Most Added/Included in Playlists" would include similar lists of Artists/Tracks.
 
 However, the data showed a different set of Artists for each of these categories:
 
@@ -131,13 +136,6 @@ However, the data showed a different set of Artists for each of these categories
     <img src="images/1730152981982.png" style="width: 100%; max-width: 600px;" 
          alt="fig 9">
 </figure>
-
----
-
-## Technologies and Tools
-
-* **Visualizations** : Generated bar plots using **matplotlib** and **seaborn** to explodata distribution and relationships.
-* **Tools and Libraries** : Python, pandas, and Jupyter Notebook were used for data cleaning, analysis, and visualization.
 
 ---
 
